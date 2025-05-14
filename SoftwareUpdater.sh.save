@@ -1,10 +1,1 @@
-#!/bin/bash
-#Update repositories
-echo "Do you want to update package lists?(y/n)"
-read answer
-if ["$answer" = "y"];then
-sudo apt update
-fi
-#Upgrade installed packages
-echo "Do you want to upgrade installed packages?(y/n)"
-read 
+#check aavi.sh
